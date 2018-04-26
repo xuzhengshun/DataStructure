@@ -23,6 +23,7 @@ public class Josephus {
         System.out.println("被赦免者是"+list.toString());
     }
 
+
     public static void main(String[] args) {
           getJosephus(5,0,2);
     }
